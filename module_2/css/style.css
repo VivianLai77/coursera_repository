@@ -13,7 +13,7 @@ h1 {
   width: 32%;
   box-sizing: border-box;
   background-color: #e6e6e6;
-  border: 2px #333333 solid;
+  border: 1px #333333 solid;
   display: inline-block;
   position: relative;
   padding: 1.5% 2% 0.5% 2%;
@@ -27,10 +27,10 @@ h1 {
   top: 0;
   right: 0;
   box-sizing: border-box;
-  border-bottom: 2px #333333 solid;
+  border-bottom: 1px #333333 solid;
   border-left: 2px #333333 solid;
   text-align: center;
-  padding-top: 2px;
+  padding-top: 1px;
   color: #ffffff;
 }
 
